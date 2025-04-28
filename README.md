@@ -20,5 +20,8 @@ The graphs definitely show that both GLAZE and Eric embeddings move the image's 
 
 
 
+AI Usage Policy:
+We used ChatGPT to help conceptualize the general overview of the PGD-eseque approach to perturbing images. We also used ChatGPT throughout the notebooks to help with correcting syntax when generating code, but the ideation and implementation, or the main part of the work, was derived by ourselves. 
+
 
 
